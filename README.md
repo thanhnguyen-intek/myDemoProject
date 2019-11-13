@@ -10,6 +10,10 @@ THANH
 4
 5
 #End
+a
+a
+a
+a
 
 #Continue
 6
@@ -22,3 +26,6 @@ THANH
 THANH
 THANH
 THANH
+10
+
+Finish the counting numbers
