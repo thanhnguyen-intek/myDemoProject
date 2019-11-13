@@ -14,3 +14,6 @@
 
 ![alt text](https://github.com/thanhnguyen-intek/myDemoProject/blob/master/index.png)
 
+10
+
+Finish the counting numbers
